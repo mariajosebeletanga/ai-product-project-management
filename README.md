@@ -2,7 +2,7 @@
 End-to-end AI product development and project management framework.
 
 
-# AI Product Project Management  
+# Project Management Framework for AI Products
 
 This project presents a complete framework for managing AI-driven products that integrate data science, software development, and business strategy using a hybrid predictive and agile approach.
 
