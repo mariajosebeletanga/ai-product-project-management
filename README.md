@@ -18,7 +18,7 @@ Key components include:
 
 ## 📄 Project Documentation  
 
-- Full project framework (PDF available in this repository)
+- Full framework document: [Project Management Framework for AI Products (PDF)](./Project%20Management%20Framework%20for%20AI%20Products.pdf)
 
 ## 🔧 Core Areas  
 
